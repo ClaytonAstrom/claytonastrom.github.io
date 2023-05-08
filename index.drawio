@@ -1,51 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T19:19:55.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ziLxSA1eB1ymKR8hONBN" version="21.2.9" type="github" pages="2">
-  <diagram name="Page-1" id="NfcyxsMAp8oJkiD7tQFO">
-    <mxGraphModel dx="1359" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-05-08T20:51:39.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XRVodqFgIFSk3FxARxPG" version="21.2.9" type="github">
+  <diagram name="Overview" id="NfcyxsMAp8oJkiD7tQFO">
+    <mxGraphModel dx="1359" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="52-xD28jCUi9IX3z30gG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="370" y="220" width="80" height="80" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="20" width="261" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="52-xD28jCUi9IX3z30gG-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="390" width="200" height="200" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://wiki.guildwars2.com/images/d/df/GW2Logo_new.png;" vertex="1" parent="1">
+          <mxGeometry x="339" y="40" width="158.01" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="52-xD28jCUi9IX3z30gG-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="160" width="120" height="80" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-4" value="&lt;a href=&quot;https://account.arena.net/applications&quot;&gt;GW2 API Key&lt;/a&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfJl42B2BMqc1mxpnbIq-1" value="&lt;a href=&quot;data:page/id,CHRfpnqsCdEV9Wg7y6lV&quot;&gt;Test&amp;nbsp;&lt;/a&gt;asdf asdf" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-6" value="Official" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfwxyti6akqrUWUwvGMo-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="410" width="200" height="200" as="geometry">
-            <mxRectangle x="425" y="410" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="tnSydGiNR0952dzmjaRM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="28.01" y="350" width="801.99" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="vfwxyti6akqrUWUwvGMo-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wFomtIW0dpW99AlJQ0N7-1" value="&lt;a href=&quot;data:page/id,CHRfpnqsCdEV9Wg7y6lV&quot;&gt;Test local&lt;/a&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-9" value="3rd party downloadable applications" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="210" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="CHRfpnqsCdEV9Wg7y6lV" name="Page-2">
-    <mxGraphModel dx="1359" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="iZ36xfQX7koRc2D2EAOe-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-10" target="tnSydGiNR0952dzmjaRM-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ36xfQX7koRc2D2EAOe-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="370" width="200" height="200" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iZ36xfQX7koRc2D2EAOe-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="200" height="200" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-11" value="mods and plugins" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ug2as1qvTND2jn1yOlMu-1" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="700" width="80" height="100" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-12" value="arcdps" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-13" value="&lt;ul&gt;&lt;li&gt;arcdps&lt;/li&gt;&lt;li&gt;arcdps boon table&lt;/li&gt;&lt;li&gt;arcdps healing stats&lt;/li&gt;&lt;li&gt;arcdps killproof-me&lt;/li&gt;&lt;li&gt;arcdps mechanics&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-14" value="&lt;ul&gt;&lt;li&gt;GW2 Radial&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="390" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-18" value="MumbleLink" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-19" value="&lt;ul&gt;&lt;li&gt;blishhud&lt;/li&gt;&lt;li&gt;taco&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="415" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-20" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="529" y="510" width="244" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tnSydGiNR0952dzmjaRM-21" target="tnSydGiNR0952dzmjaRM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-21" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-22" value="Download Managers" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="620" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-23" value="&lt;ul&gt;&lt;li&gt;Unofficial Addon Manager&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-24" value="Logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529" y="510" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="552" y="540" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-25" value="&lt;ul&gt;&lt;li&gt;Elite Insights&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-28" value="Viewers" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="610" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-30" value="Uploaders" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="610" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-31" value="&lt;ul&gt;&lt;li&gt;Plenbot&lt;/li&gt;&lt;li&gt;gw2 wingman&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="630" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="24.5" y="750" width="801.99" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-37" value="Web apps" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="780" width="251" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-39" value="Logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-41" value="&lt;ul&gt;&lt;li&gt;dps.report&lt;/li&gt;&lt;li&gt;gw2wingman&lt;/li&gt;&lt;li&gt;snowcrows benchmarks&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="529" y="810" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-43" value="Account optimization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tnSydGiNR0952dzmjaRM-44" value="&lt;ul&gt;&lt;li&gt;gw2efficiency&lt;/li&gt;&lt;li&gt;fast.farming&lt;/li&gt;&lt;li&gt;gw2lunchbox&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
