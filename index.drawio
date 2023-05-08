@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T21:04:08.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I0RSqdhB0j1VwfQiKcoD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T21:50:42.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="C4pQvl4LG2hIlEthJmtD" version="21.2.9" type="github">
   <diagram name="Overview" id="NfcyxsMAp8oJkiD7tQFO">
     <mxGraphModel dx="1359" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,8 +115,8 @@
         <mxCell id="tnSydGiNR0952dzmjaRM-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="890" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tnSydGiNR0952dzmjaRM-47" value="Account optimization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="890" width="130" height="30" as="geometry" />
+        <mxCell id="tnSydGiNR0952dzmjaRM-47" value="Trading Post" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tnSydGiNR0952dzmjaRM-48" value="&lt;ul&gt;&lt;li&gt;gw2efficiency&lt;/li&gt;&lt;li&gt;gw2spidey&lt;/li&gt;&lt;li&gt;gw2bltc&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="920" width="130" height="40" as="geometry" />
